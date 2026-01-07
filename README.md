@@ -89,6 +89,7 @@ Gosto de aprender na prática, valorizo código bem feito, organizado e funciona
     align="left" 
     alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaaccviana&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacsviana&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
   />
 </p>
+
